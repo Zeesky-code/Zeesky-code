@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeesky-code
+- 👋 Hi, I’m Zainab
 - 👀 I’m currently trying to build my portfolio.
 - 🌱 I’m currently learning  Python for backend web development.
 - 💞️ I’m looking to collaborate on a web app with a front end developer.
