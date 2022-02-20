@@ -1,5 +1,5 @@
 <p align="center">
-    ![Github_banner](https://user-images.githubusercontent.com/71593672/154853688-0d8b1966-b17b-493a-9993-f68daa2167ec.png)
+    <img src="https://user-images.githubusercontent.com/71593672/154853688-0d8b1966-b17b-493a-9993-f68daa2167ec.png">
 </p>
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
 
