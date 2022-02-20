@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/71593672/154853953-32a6b953-eb44-42ae-861a-b7f4b771ede1.png">
+    <img src="https://user-images.githubusercontent.com/71593672/154854462-61adf83a-20de-4047-a18f-f369f528f3d1.png">
 </p>
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
 
@@ -48,9 +48,9 @@ I am a computer engineering student 💻, with a passion for backend development
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white)
 
 
-</br
+</br>
 
->
+
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqliteL&color=336791)
 
 
