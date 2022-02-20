@@ -29,8 +29,6 @@ I am a computer engineering student with a passion for backend development, and 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=ffdd54)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=white)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white)
 
 
 </br>
@@ -38,6 +36,17 @@ I am a computer engineering student with a passion for backend development, and 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+
+</br>
+
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white)
+
+
+</br
+
+>
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqliteL&color=336791)
 
 
 </br>
