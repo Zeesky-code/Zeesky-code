@@ -2,12 +2,12 @@
     <img width="1000" height="200" src="https://user-images.githubusercontent.com/71593672/154814113-84ca10a2-91be-4e6b-bf9d-f63ca667ba92.png" alt="my banner">
 </p>
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
-<hr>
-<ul>
-    <a href="https://www.linkedin.com/in/zainab-lawal-b01707162/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logoo=linkedin&logoColor=white)
-    <a href="https://mobile.twitter.com/Zeeskylaw"><img height="20" padding="10"src="https://img.shields.io/badge/Zeeskylaw-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"></a>
-    <a href="https://zeeskylaw.hashnode.dev/"><img height="20" padding="10"src="https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white"></a>
-</ul>  
+
+
+<a href="https://www.linkedin.com/in/zainab-lawal-b01707162/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logoo=linkedin&logoColor=white)
+<a href="https://mobile.twitter.com/Zeeskylaw">![](https://img.shields.io/badge/Zeeskylaw-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)</a>
+<a href="https://zeeskylaw.hashnode.dev/">![](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white)</a>
+
 
 I am a computer engineering student with a passion for backend development, and writing!
 
@@ -35,3 +35,6 @@ What I'm up to:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+
+
+[![Zeesky-Code's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeesky-Code&theme=blue-green)](https://github.com/Zeesky-Code/github-readme-streak-stats)
