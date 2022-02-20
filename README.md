@@ -4,9 +4,9 @@
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
 <hr>
 <ul>
-    <a href="https://www.linkedin.com/in/zainab-lawal-b01707162/"><img width="21px" height="20" padding="10"src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logoo=linkedin&logoColor=white"></a>
-    <a href="https://mobile.twitter.com/Zeeskylaw"><img width="21px" height="20" padding="10"src="https://img.shields.io/badge/Zeeskylaw-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"></a>
-    <a href="https://zeeskylaw.hashnode.dev/"><img width="21px" height="20" padding="10"src="https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/zainab-lawal-b01707162/"><img height="20" padding="10"src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logoo=linkedin&logoColor=white"></a>
+    <a href="https://mobile.twitter.com/Zeeskylaw"><img height="20" padding="10"src="https://img.shields.io/badge/Zeeskylaw-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"></a>
+    <a href="https://zeeskylaw.hashnode.dev/"><img height="20" padding="10"src="https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white"></a>
 </ul>  
 
 I am a computer engineering student with a passion for backend development, and writing!
