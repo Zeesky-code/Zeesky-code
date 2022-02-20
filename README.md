@@ -4,7 +4,7 @@
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
 
 <h2 align="center">
-I am a computer engineering student 💻, with a passion for backend development, and writing! 
+I am a computer engineering student 💻, with a passion for backend development and writing! 
 </h2> 
 
 ## 🤝 Connect with me:
