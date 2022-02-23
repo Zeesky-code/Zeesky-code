@@ -27,7 +27,7 @@ I am a computer engineering student 💻, with a passion for backend development
 ## 🌱 I'm currently learning
 - Java
 - Django
-- Discrete Computational Structures
+- Discrete Mathematics
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
