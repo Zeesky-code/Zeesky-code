@@ -7,11 +7,11 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🏫 I'm also a 2nd year Computer Enginerring student at Eskisehir Teknik Universitesi
+- 🏫 I'm also a 2nd-year Computer Engineering student at Eskisehir Teknik Universitesi
 - 🌱 I’m currently learning JavaScript and Node.js.
 - 😊 I’m looking for help with open source projects, and internships.
 - 💼 Job interests: Software Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing zainablaw1012@gmail.com.
+- 📫 You can contact me by emailing zainablaw1012@gmail.com.
 
 ---
 
@@ -21,7 +21,7 @@
 <a href="https://mobile.twitter.com/Zeeskylaw">![](https://img.shields.io/badge/Zeeskylaw-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)</a>
 <a href="https://zeeskylaw.hashnode.dev/">![](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white)</a>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 
 
@@ -59,6 +59,5 @@
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesky-Code&layout=compact)](https://github.com/Zeesky-Code)
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Zeesky-Code&show_icons=true&include_all_commits=true&hide_border=true" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeesky-Code&show_icons=true&include_all_commits=true&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesky-Code&langs_count=8&layout=compact&hide_border=true"  /> |
+| ------------- | ------------- |
