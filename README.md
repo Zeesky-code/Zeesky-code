@@ -3,9 +3,17 @@
 </p>
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
 
-<h2 align="center">
-I am a computer engineering student 💻, with a passion for backend development and writing! 
-</h2> 
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: She/her
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🏫 I'm also a 2nd year Computer Enginerring student at Eskisehir Teknik Universitesi
+- 🌱 I’m currently learning JavaScript and Node.js.
+- 😊 I’m looking for help with open source projects, and internships.
+- 💼 Job interests: Software Engineer(Intern or Junior level).
+- 📫 You can [view my resume](#) and contact me by emailing zainablaw1012@gmail.com.
+
+---
 
 ## 🤝 Connect with me:
 
@@ -16,18 +24,6 @@ I am a computer engineering student 💻, with a passion for backend development
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-
-
-## 🔭 I'm currently working on
-- My old projects
-- Hospital Management System (Django)
-- My next blog
-
-
-## 🌱 I'm currently learning
-- Java
-- Django
-- Discrete Mathematics
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -64,3 +60,5 @@ I am a computer engineering student 💻, with a passion for backend development
 
 ## 📈 GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesky-Code&layout=compact)](https://github.com/Zeesky-Code)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Zeesky-Code&show_icons=true&include_all_commits=true&hide_border=true" /> 
