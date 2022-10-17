@@ -14,7 +14,8 @@
 - 📫 You can contact me by emailing zainablaw1012@gmail.com.
 
 
-## 💡Interesting fact: I participating in Hacktoberfest for the first time this year.
+- 💡Interesting fact: I participating in Hacktoberfest for the first time this year.
+
 [![@Zeeskylaw's Holopin board](https://holopin.me/Zeeskylaw)](https://holopin.io/@Zeeskylaw)
 
 
