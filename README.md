@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/71593672/154854462-61adf83a-20de-4047-a18f-f369f528f3d1.png">
-</p>
 <h3 align="center">Hi there, I’m Zainab 👋</h3>
 
 **Here's a quick summary about me**:
@@ -63,7 +60,3 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-
-## 📈 GitHub Stats 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeesky-Code&show_icons=true&include_all_commits=true&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesky-Code&langs_count=8&layout=compact&hide_border=true"  /> |
-| ------------- | ------------- |
