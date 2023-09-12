@@ -3,15 +3,15 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I enjoy building web scrapers and PDF parers with Java.
 - 🏫 I'm also a 2nd-year Computer Engineering student at Eskisehir Teknik Universitesi
-- 🌱 I’m currently learning JavaScript and Node.js.
-- 😊 I’m looking for help with open source projects, and internships.
+- 🌱 I’m currently learning .NET.
+- 😊 I’m interested in contributing to open-source projects.
 - 💼 Job interests: Software Engineer(Intern or Junior level).
 - 📫 You can contact me by emailing zainablaw1012@gmail.com.
 
 
-- 💡Interesting fact: I participated in Hacktoberfest for the first time ever this year.
+- 💡Interesting fact: I participated in Hacktoberfest for the first time ever in 2022.
 
 [![@Zeeskylaw's Holopin board](https://holopin.me/Zeeskylaw)](https://holopin.io/@Zeeskylaw)
 
