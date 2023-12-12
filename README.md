@@ -4,8 +4,8 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I enjoy building web scrapers and PDF parers with Java.
-- 🏫 I'm also a 2nd-year Computer Engineering student at Eskisehir Teknik Universitesi
-- 🌱 I’m currently learning .NET.
+- 🏫 I'm also a 3rd-year Computer Engineering student at Eskisehir Teknik Universitesi
+- 🌱 I’m currently learning about information retrieval.
 - 😊 I’m interested in contributing to open-source projects.
 - 💼 Job interests: Software Engineer(Intern or Junior level).
 - 📫 You can contact me by emailing zainablaw1012@gmail.com.
